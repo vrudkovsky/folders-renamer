@@ -1,4 +1,6 @@
 /.idea/
+.DS_Store
+/out
 
 # `target/` folder in all sub-directories
 **/target/*
