@@ -1,5 +1,6 @@
 /**
- *
+ * @autor Victor Rudkovsky
+ * Created on 23.05.22023
  */
 
 package app;
